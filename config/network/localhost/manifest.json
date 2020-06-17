@@ -1,9 +1,9 @@
 {
-    "year": "2377",
-    "serverAddress": "localhost",
-    "serverName": "Node Y56 Intranet",
-    "iconName": "Moon-icon.png",
-    "terminalID": "Y56",
+    "year": "2020",
+    "serverAddress": "VGT.Secure",
+    "serverName": "VGT.Taskforce_7",
+    "iconName": "fbi.png",
+    "terminalID": "VGT.FBI",
     "defaultUser": {
         "userId": "user",
         "password": "",
