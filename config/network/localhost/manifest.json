@@ -1,6 +1,6 @@
 {
     "year": "2020",
-    "serverAddress": "VGT.Secure",
+    "serverAddress": "localhost",
     "serverName": "VGT.Taskforce_7",
     "iconName": "fbi.png",
     "terminalID": "VGT.FBI",
